@@ -7,16 +7,11 @@ const config: Config = {
   // TODO
   // favicon: "img/favicon.ico",
 
-  // Set the production url of your site here
   url: "https://danjelhuang.github.io",
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
 
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: "danjelhuang", // Usually your GitHub org/user name.
-  projectName: "danjelhuang.github.io", // Usually your repo name.
+  organizationName: "danjelhuang",
+  projectName: "danjelhuang.github.io",
   deploymentBranch: "gh-pages",
   trailingSlash: false,
 
@@ -39,7 +34,6 @@ const config: Config = {
   ],
 
   themeConfig: {
-    // Replace with your project's social card
     colorMode: {
       respectPrefersColorScheme: true,
     },
@@ -48,7 +42,7 @@ const config: Config = {
     },
     footer: {
       style: "dark",
-      copyright: `Built with Docusaurus 🦖`,
+      copyright: `Built with [🦖](https://docusaurus.io/)`,
     },
     prism: {
       theme: prismThemes.github,
