@@ -42,7 +42,7 @@ const config: Config = {
     },
     footer: {
       style: "dark",
-      copyright: `Built with [🦖](https://docusaurus.io/)`,
+      copyright: `Built with <a href="https://docusaurus.io" target="_blank">🦖</a>`,
     },
     prism: {
       theme: prismThemes.github,
