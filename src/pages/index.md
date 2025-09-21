@@ -8,9 +8,9 @@ title: ""
 
 ## About Me
 
-🎓 Studying computer engineering at the University of Waterloo
+💻 Software engineer @ [Zip](https://ziphq.com/)
 
-💻 Interested in new grad software engineering roles for 2025
+🎓 Computer engineering grad @ University of Waterloo
 
 ⚽ I like playing and talking about any sport
 
@@ -18,9 +18,9 @@ title: ""
 
 Software engineering internships @
 
-💸 [Mantle](https://withmantle.com/)
-
 🔐 [1Password](https://1password.com/)
+
+💸 [Mantle](https://withmantle.com/)
 
 🚦 [Miovision](https://miovision.com/)
 
